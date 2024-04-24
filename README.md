@@ -1,4 +1,6 @@
 # Migration Analysis
+Link to the prototype:- [Chat-Bot-Prototype](https://migrationanalysis.zapier.app/chat)
+
 User Guide for Migration Assistant Chatbot:
 
 Welcome to the Migration Assistant chatbot! This chatbot is designed to help you find the perfect destination to move to based on the latest semantic data and global socio-economic trends. Here's how you can use the chatbot effectively:
