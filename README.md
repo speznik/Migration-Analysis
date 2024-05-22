@@ -76,6 +76,16 @@ This repository contains the code for a Global Migration Analysis Chatbot implem
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
+Aryan Rohilla - Aryan21024@iiitd.ac.in
+
+Avinash Barala - Avinash21028@iiitd.ac.in
+
+Dharni Kumar S - Dharni21039@iiitd.ac.in
+
+Ekansh - Ekansh21044@iiitd.ac.in
+
+Lakshay Bansal - Lakshay21039@iiitd.ac.in
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
